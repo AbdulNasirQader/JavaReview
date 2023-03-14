@@ -39,7 +39,7 @@ public class CollectionViewOfMap {
 
         //print all values
         for (double val:values){
-            System.out.println(val+" ");
+            System.out.println(val+"yo ");
         }
     }
 }
